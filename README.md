@@ -3,6 +3,9 @@
 
 ## Stuff used:
 Flask
+
 Bootstrap
+
 Python (obv)
+
 HTML (obv)
